@@ -1,4 +1,4 @@
 package struck1.customer;
-@Service
+@Service //used for database operations.
 public class customerservice {
 }
